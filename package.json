@@ -1,0 +1,26 @@
+{
+  "name": "image-home",
+  "version": "0.0.0",
+  "description": "image",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JavaScriptThinker/image-home.git"
+  },
+  "keywords": [
+    "image"
+  ],
+  "author": "agileabc",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "40691abffadd4a7c95948265d865951eb5bdd3f5",
+  "bugs": {
+    "url": "https://github.com/JavaScriptThinker/image-home/issues"
+  }
+}
