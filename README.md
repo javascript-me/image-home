@@ -1,3 +1,3 @@
 ImageHome
 =========
-Start building.
+Go to sleep.
