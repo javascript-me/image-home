@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6e41fa-40be-430e-a34c-4b98d59f12bb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="image-home.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370794394037" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370798508376" ignored="false" />
     <file path="/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370798502984" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370789602214" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/.idea/workspace.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370452891618" ignored="false" />
@@ -414,7 +413,11 @@
       <created>1370794397169</created>
       <updated>1370794397169</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update for teamcity.">
+      <created>1370798511598</created>
+      <updated>1370798511598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
