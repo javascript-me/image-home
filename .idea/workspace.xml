@@ -7,7 +7,7 @@
     </list>
     <ignored path="image-home.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371047699681" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371049555243" ignored="false" />
     <file path="/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371047686449" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370887656665" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/.idea/workspace.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370452891618" ignored="false" />
@@ -33,7 +33,7 @@
     <file path="$PROJECT_DIR$/../Stone/target/image-home/package/.idea/encodings.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370792246524" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/target/image-home/package/.idea/vcs.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370792246524" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/target/image-home/package/.idea/uiDesigner.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370792246524" ignored="false" />
-    <file path="$PROJECT_DIR$/../Stone/target/image-home/package/src/server.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370793725667" ignored="false" />
+    <file path="$PROJECT_DIR$/../Stone/target/image-home/package/src/server.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371049710307" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/src/inpector.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370797902639" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/.gitignore" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370799398114" ignored="false" />
     <file path="/.gitignore" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370799396396" ignored="false" />
@@ -47,7 +47,7 @@
     <file path="$PROJECT_DIR$/../first-client/node_modules/first-server/package.json" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371039403260" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/package.json" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371039459974" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/test/indexTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371043824494" ignored="false" />
-    <file path="/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371049548636" ignored="false" />
+    <file path="/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371049720146" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +136,7 @@
       <file leaf-file-name="requestHandlers.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="393" selection-end="393" vertical-scroll-proportion="0.6294964">
+            <state line="14" column="21" selection-start="392" selection-end="392" vertical-scroll-proportion="0.6294964">
               <folding />
             </state>
           </provider>
@@ -468,7 +468,11 @@
       <created>1371047702062</created>
       <updated>1371047702062</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update.">
+      <created>1371049559146</created>
+      <updated>1371049559146</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -666,7 +670,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="393" selection-end="393" vertical-scroll-proportion="0.6294964">
+        <state line="14" column="21" selection-start="392" selection-end="392" vertical-scroll-proportion="0.6294964">
           <folding />
         </state>
       </provider>
