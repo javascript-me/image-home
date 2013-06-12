@@ -7,7 +7,7 @@
     </list>
     <ignored path="image-home.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371049736629" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371052055239" ignored="false" />
     <file path="/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371047686449" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370887656665" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/.idea/workspace.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370452891618" ignored="false" />
@@ -47,9 +47,9 @@
     <file path="$PROJECT_DIR$/../first-client/node_modules/first-server/package.json" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371039403260" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/package.json" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371039459974" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/test/indexTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371043824494" ignored="false" />
-    <file path="/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371052042867" ignored="false" />
+    <file path="/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371052216006" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/target/image-home/package/src/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371051850365" ignored="false" />
-    <file path="$PROJECT_DIR$/../Stone/target/image-home/package/src/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371052036275" ignored="false" />
+    <file path="$PROJECT_DIR$/../Stone/target/image-home/package/src/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371052211289" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,7 @@
       <file leaf-file-name="requestHandlers.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.41546762">
+            <state line="14" column="21" selection-start="392" selection-end="392" vertical-scroll-proportion="0.46043167">
               <folding />
             </state>
           </provider>
@@ -478,7 +478,11 @@
       <created>1371049740110</created>
       <updated>1371049740110</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update first.">
+      <created>1371052058876</created>
+      <updated>1371052058876</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -549,7 +553,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update to Joanna." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update first." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -567,6 +571,7 @@
     <MESSAGE value="Add Hello Neo." />
     <MESSAGE value="Update." />
     <MESSAGE value="Update to Joanna." />
+    <MESSAGE value="Update first." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -677,7 +682,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.41546762">
+        <state line="14" column="21" selection-start="392" selection-end="392" vertical-scroll-proportion="0.46043167">
           <folding />
         </state>
       </provider>
