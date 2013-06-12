@@ -11,6 +11,9 @@ function start(response) {
         'content="text/html; charset=UTF-8" />' +
         '</head>' +
         '<body>' +
+
+        'Hello NEO<br />' +
+
         '<form action="/upload" enctype="multipart/form-data" ' +
         'method="post">' +
         '<input type="file" name="upload" multiple="multiple">' +
