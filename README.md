@@ -1,8 +1,7 @@
 ImageHome
 =========
 
-cd src
-node index.js
+node src/index.js
 
 Open URL
 http://localhost:8888
