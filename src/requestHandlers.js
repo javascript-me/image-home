@@ -12,7 +12,7 @@ function start(response) {
         '</head>' +
         '<body>' +
 
-        'What can we do for you today? <br />' +
+        'Good for you.... <br />' +
 
         '<form action="/upload" enctype="multipart/form-data" ' +
         'method="post">' +
