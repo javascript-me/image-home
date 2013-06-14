@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6e41fa-40be-430e-a34c-4b98d59f12bb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/requestHandlers.js" afterPath="$PROJECT_DIR$/src/requestHandlers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="image-home.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371198466155" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371198580426" ignored="false" />
     <file path="/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371147291711" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370887656665" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/.idea/workspace.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371152977847" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/test/uploaderTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371045814087" ignored="false" />
     <file path="/uploaderTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371045811382" ignored="false" />
-    <file path="$PROJECT_DIR$/../Stone/src/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371149003968" ignored="false" />
-    <file path="/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371141449937" ignored="false" />
+    <file path="$PROJECT_DIR$/../Stone/src/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371201880470" ignored="false" />
+    <file path="/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371201880470" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/my_file.bin" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370450525336" ignored="false" />
     <file path="/my_file.bin" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370444523719" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/src/sample.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370450194181" ignored="false" />
@@ -38,7 +40,7 @@
     <file path="$PROJECT_DIR$/../Stone/.gitignore" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370799398114" ignored="false" />
     <file path="/.gitignore" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370799396396" ignored="false" />
     <file path="/server.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1370882931758" ignored="false" />
-    <file path="$PROJECT_DIR$/../first-server/src/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371145555097" ignored="false" />
+    <file path="$PROJECT_DIR$/../first-server/src/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371202007117" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/src/adder.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371141167664" ignored="false" />
     <file path="/adder.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371025772204" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/test/adderTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371026871686" ignored="false" />
@@ -47,17 +49,19 @@
     <file path="$PROJECT_DIR$/../first-client/node_modules/first-server/package.json" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371039403260" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/package.json" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371144368193" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/test/indexTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371142003713" ignored="false" />
-    <file path="/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371149439963" ignored="false" />
+    <file path="/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371203512946" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/target/image-home/package/src/index.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371051850365" ignored="false" />
     <file path="$PROJECT_DIR$/../Stone/target/image-home/package/src/requestHandlers.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371053707685" ignored="false" />
-    <file path="$PROJECT_DIR$/../first-server/src/multiplier.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371141256554" ignored="false" />
-    <file path="/multiplier.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371141235401" ignored="false" />
+    <file path="$PROJECT_DIR$/../first-server/src/multiplier.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371201523284" ignored="false" />
+    <file path="/multiplier.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371201518193" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/README.md" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371142464550" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/package0.json" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371144179307" ignored="false" />
     <file path="$PROJECT_DIR$/../first-server/.idea/workspace.xml" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371147204928" ignored="false" />
     <file path="$PROJECT_DIR$/../hello-mocha/src/server/server.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371149317036" ignored="false" />
     <file path="$PROJECT_DIR$/../hello-mocha/test/assertionLibrary/expectTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371149663351" ignored="false" />
     <file path="/expectTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371149662242" ignored="false" />
+    <file path="$PROJECT_DIR$/../hello-mocha/test/mochaTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371202906296" ignored="false" />
+    <file path="$PROJECT_DIR$/../hello-mocha/test/server/serverTest.js" changelist="ef6e41fa-40be-430e-a34c-4b98d59f12bb" time="1371203164115" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,19 +120,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="requestHandlers.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="26" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="47" selection-end="47" vertical-scroll-proportion="0.04681648">
+            <state line="2" column="20" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requestHandlers.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="32" selection-start="403" selection-end="403" vertical-scroll-proportion="0.57865167">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="5" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,8 +177,9 @@
         <option value="$PROJECT_DIR$/node_modules/formidable/package.json" />
         <option value="$PROJECT_DIR$/src/server.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/requestHandlers.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/requestHandlers.js" />
       </list>
     </option>
   </component>
@@ -465,7 +488,11 @@
       <created>1371149463869</created>
       <updated>1371149463869</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update to 0.0.4.">
+      <created>1371198584222</created>
+      <updated>1371198584222</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -483,6 +510,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -493,7 +521,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -536,7 +563,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update to 0.0.4." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -559,6 +586,7 @@
     <MESSAGE value="Update version number." />
     <MESSAGE value="Create dummy.txt in tmp folder." />
     <MESSAGE value="Update." />
+    <MESSAGE value="Update to 0.0.4." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -566,7 +594,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" />
+        <state line="8" column="3" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
@@ -578,12 +608,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0" />
+        <state line="11" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" />
+        <state line="8" column="3" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
@@ -603,11 +637,6 @@
         <state line="17" column="14" selection-start="441" selection-end="441" vertical-scroll-proportion="0.78268874" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="212" selection-end="212" vertical-scroll-proportion="0.17985612" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/image-home.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" />
@@ -618,38 +647,49 @@
         <state line="8" column="6" selection-start="291" selection-end="291" vertical-scroll-proportion="0.35971224" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tmp/dummy.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="36" selection-start="173" selection-end="173" vertical-scroll-proportion="0.22482014" />
+        <state line="8" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.35971224">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
+    <entry file="file://$PROJECT_DIR$/src/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+        <state line="4" column="10" selection-start="212" selection-end="212" vertical-scroll-proportion="0.18726592">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="47" selection-end="47" vertical-scroll-proportion="0.04681648">
+        <state line="2" column="20" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/requestHandlers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.35971224">
+        <state line="14" column="32" selection-start="403" selection-end="403" vertical-scroll-proportion="0.57865167">
           <folding />
         </state>
       </provider>
