@@ -1,5 +1,5 @@
-ImageHome
-=========
+image-home
+==========
 
 node src/index.js
 
