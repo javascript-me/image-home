@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JavaScriptThinker/image-home.git"
+    "url": "https://github.com/javascript-me/image-home.git"
   },
   "keywords": [
     "image"
@@ -21,7 +21,7 @@
   "readmeFilename": "README.md",
   "gitHead": "40691abffadd4a7c95948265d865951eb5bdd3f5",
   "bugs": {
-    "url": "https://github.com/JavaScriptThinker/image-home/issues"
+    "url": "https://github.com/javascript-me/image-home/issues"
   }
 }
 
